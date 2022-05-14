@@ -1,6 +1,7 @@
 ---
-title: injectCSS
-tags: browser,css,intermediate
+title: Inject CSS
+tags: browser,css
+expertise: intermediate
 firstSeen: 2020-10-15T22:18:00+03:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
@@ -23,6 +24,6 @@ const injectCSS = css => {
 ```
 
 ```js
-injectCSS('body { background-color: #000 }'); 
+injectCSS('body { background-color: #000 }');
 // '<style type="text/css">body { background-color: #000 }</style>'
 ```

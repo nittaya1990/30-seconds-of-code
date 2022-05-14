@@ -1,6 +1,7 @@
 ---
-title: isBrowserTabFocused
-tags: browser,beginner
+title: Check if browser tab is focused
+tags: browser
+expertise: beginner
 firstSeen: 2018-04-15T19:18:44+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---

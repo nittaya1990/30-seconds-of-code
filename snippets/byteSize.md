@@ -1,6 +1,7 @@
 ---
-title: byteSize
-tags: string,beginner
+title: Byte size of string
+tags: string
+expertise: beginner
 firstSeen: 2017-12-29T14:30:34+02:00
 lastUpdated: 2020-10-18T23:04:45+03:00
 ---

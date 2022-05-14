@@ -1,6 +1,7 @@
 ---
-title: scrollToTop
-tags: browser,intermediate
+title: Scroll page to top
+tags: browser
+expertise: intermediate
 firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---

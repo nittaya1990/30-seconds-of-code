@@ -1,6 +1,8 @@
 ---
-title: allEqualBy
-tags: array,intermediate
+title: Check if array elements are equal based on function
+tags: array
+expertise: intermediate
+author: maciv
 firstSeen: 2020-10-19T22:14:49+03:00
 lastUpdated: 2020-10-19T22:14:49+03:00
 ---

@@ -1,6 +1,8 @@
 ---
-title: removeClass
-tags: browser,beginner
+title: Remove class from HTML element
+tags: browser
+expertise: beginner
+author: chalarangelo
 firstSeen: 2020-12-30T19:21:15+02:00
 lastUpdated: 2020-12-30T19:21:15+02:00
 ---

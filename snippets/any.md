@@ -1,6 +1,7 @@
 ---
-title: any
-tags: array,beginner
+title: Test if any array element is truthy
+tags: array
+expertise: beginner
 firstSeen: 2018-02-14T11:46:15+02:00
 lastUpdated: 2020-10-18T20:24:28+03:00
 ---

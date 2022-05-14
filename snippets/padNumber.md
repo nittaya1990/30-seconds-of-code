@@ -1,6 +1,8 @@
 ---
-title: padNumber
-tags: string,math,beginner
+title: Pad number
+tags: string,math
+expertise: beginner
+author: maciv
 firstSeen: 2020-10-03T23:31:08+03:00
 lastUpdated: 2020-10-03T23:31:08+03:00
 ---

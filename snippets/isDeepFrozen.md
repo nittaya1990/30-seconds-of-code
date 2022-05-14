@@ -1,6 +1,8 @@
 ---
-title: isDeepFrozen
-tags: object,recursion,intermediate
+title: Check if object is deep frozen
+tags: object,recursion
+expertise: intermediate
+author: maciv
 firstSeen: 2020-09-04T20:20:11+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---

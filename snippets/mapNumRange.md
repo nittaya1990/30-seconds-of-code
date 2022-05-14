@@ -1,6 +1,7 @@
 ---
-title: mapNumRange
-tags: math,beginner
+title: Map number to range
+tags: math
+expertise: beginner
 firstSeen: 2019-02-23T12:38:16+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---

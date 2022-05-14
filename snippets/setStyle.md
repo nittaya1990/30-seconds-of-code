@@ -1,6 +1,7 @@
 ---
-title: setStyle
-tags: browser,beginner
+title: Set style for element
+tags: browser
+expertise: beginner
 firstSeen: 2017-12-29T00:08:17+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---

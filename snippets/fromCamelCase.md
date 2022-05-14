@@ -1,6 +1,7 @@
 ---
-title: fromCamelCase
-tags: string,intermediate
+title: String from camelcase
+tags: string
+expertise: intermediate
 firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
@@ -20,7 +21,7 @@ const fromCamelCase = (str, separator = '_') =>
 
 ```js
 fromCamelCase('someDatabaseFieldName', ' '); // 'some database field name'
-fromCamelCase('someLabelThatNeedsToBeDecamelized', '-'); 
+fromCamelCase('someLabelThatNeedsToBeDecamelized', '-');
 // 'some-label-that-needs-to-be-decamelized'
 fromCamelCase('someJavascriptProperty', '_'); // 'some_javascript_property'
 fromCamelCase('JSONToCSV', '.'); // 'json.to.csv'
